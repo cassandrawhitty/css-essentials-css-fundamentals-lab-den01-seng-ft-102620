@@ -23,7 +23,13 @@ figcaption {
 }
 
 #featured-property p {
-  
+  width: 800px;
+  text-align: center;
+}
+
+#details {
+  display: block;
+  float: left;
 }
 
 
