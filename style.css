@@ -3,3 +3,46 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+figure {
+  text-align: center;
+}
+
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background: grey;
+}
+
+figcaption {
+  font-size: 12px;
+}
+
+#featured-property {
+  display: flex;
+  flex-wrap: wrap; 
+  justify-content: center;
+}
+
+#featured-property p {
+  width: 800px;
+  text-align: center;
+}
+
+#details {
+  display: flex;
+}
+
+div {
+  background: red;
+  text-align: center;
+  width: 25%;
+}
+
+
+
+
