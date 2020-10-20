@@ -25,6 +25,7 @@ figcaption {
 #featured-property {
   display: flex;
   flex-wrap: wrap; 
+  align-items: center;
 }
 
 #featured-property p {
