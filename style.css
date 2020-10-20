@@ -22,11 +22,14 @@ figcaption {
   font-size: 12px;
 }
 
+#featured-property {
+  display: flex;
+  justify-content: center;
+}
+
 #featured-property p {
   width: 800px;
   text-align: center;
-  display: flex;
-  justify-content: center;
 }
 
 #details {
