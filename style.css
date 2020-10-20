@@ -24,7 +24,7 @@ figcaption {
 
 #featured-property {
   display: flex;
-  flex-wrap: row wrap; 
+  flex-wrap: wrap; 
 }
 
 #featured-property p {
